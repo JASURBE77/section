@@ -1,0 +1,41 @@
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    gap: 80px;
+}
+h1{
+    text-align: center;
+
+}
+.left{
+    background-color: red;
+    width: 250px;
+    height: 200px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+    margin-left: 370px;
+}
+.right{
+    background-color: red;
+    width: 250px;
+    height: 200px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -200px;
+    margin-left: 800px;
+}
+.mun{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    gap: 80px;
+    margin-top: 90px;
+}
